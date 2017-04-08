@@ -1,7 +1,7 @@
 {
   "groupId": "javax.servlet",
   "artifactId": "servlet-api",
-  "version": "	3.0-alpha-1",
+  "version": "3.0-alpha-1",
   "sourceDirectories" : [
     "java"
   ]
